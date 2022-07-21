@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathan Tarbert
-- 👀 I’m interested in sece appsec developing
+- 👀 I’m interested in secure appsec developing
 
 <!---
 NathanTarbertSnyk/NathanTarbertSnyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
